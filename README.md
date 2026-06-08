@@ -46,7 +46,7 @@ git clone https://github.com/Rapholomm/rafael_Martinez_evaluacion_sumativa1_Agen
 
 ---
 
-**Repositorio GitHub:** \[https://github.com/Rapholomm/rafael_Martinez_evaluacion_sumativa1_AgenciaTurismo_s3]
+**Repositorio GitHub:** \ https://github.com/Rapholomm/rafael_Martinez_evaluacion_sumativa1_AgenciaTurismo_s3
 **Fecha de entrega:** \[08/06/2026]
 
 ---
